@@ -9,3 +9,6 @@ created: '2026-02-27'
 updated: '2026-02-27'
 ---
 
+## Skills
+
+- [Ontology of Learning](skills/ontology-of-learning.md)
