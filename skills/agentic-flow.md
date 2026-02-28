@@ -35,7 +35,7 @@ Teachers have access to tools — a core universal set plus domain-specific exte
 - **Audio**: playback of examples, comparisons, demonstrations
 - **Interactive**: explorable elements the learner can manipulate (tap notes, drag components, write on a canvas)
 
-The specific tools available depend on the domain. The Meta-Teacher assigns the relevant toolkit when designing a teacher.
+The specific tools available depend on the domain. The Dean assigns the relevant toolkit when designing a teacher, following the Meta-Teacher Template.
 
 ### Learner Input
 
@@ -71,16 +71,16 @@ The Dean runs structured intake, adapting to the specificity of the request:
 The Dean collects: topic, motivation, learning style, teacher energy, time commitment.
 The Dean does not assess level. Level requires domain expertise.
 
-### Phase 3 — Teacher Creation
+### Phase 3 — Teacher Design
 
 **Who the learner talks to:** Nobody. This is invisible.
 
-The Dean passes the learner profile to the Meta-Teacher. The Meta-Teacher designs:
+Using the Meta-Teacher Template, the Dean designs a personalized teacher-agent:
 
 1. A complete system prompt including 6 calibration questions
 2. A structured JSON profile (with `calibration: "pending"`)
 3. The domain toolkit assignment (core tools + domain extensions)
-4. An introduction line for the Dean
+4. An introduction line for the handoff
 
 The learner sees nothing.
 
@@ -151,7 +151,7 @@ Mid-Course, when the teacher senses growing ambition, a Journey is surfaced visu
 |---|---|---|---|
 | 1. Arrival | Dean | Greeting + open question | 1 |
 | 2. Intake | Dean | Structured choices (adaptive) | 1–4 |
-| 3. Teacher Creation | Nobody | Meta-Teacher designs the teacher + toolkit | 0 |
+| 3. Teacher Design | Nobody | Dean designs the teacher using Meta-Teacher Template | 0 |
 | 4. Introduction | Dean | Warm handoff | 1 |
 | 5. Calibration | Teacher | 6 graduated questions (may be multimodal) | 2–4 |
 | 6. Course Map | Teacher | Visual Course + Chapter milestones | 1 |
