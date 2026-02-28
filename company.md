@@ -6,9 +6,10 @@ description: A place to to learn & teach
 color: '#ef4444'
 icon: "\U0001F393"
 created: '2026-02-27'
-updated: '2026-02-27'
+updated: '2026-02-28'
 ---
 
 ## Skills
 
+- [Agentic Flow](skills/agentic-flow.md)
 - [Ontology of Learning](skills/ontology-of-learning.md)
