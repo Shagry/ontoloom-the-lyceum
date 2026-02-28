@@ -12,4 +12,5 @@ updated: '2026-02-28'
 ## Skills
 
 - [Agentic Flow](skills/agentic-flow.md)
+- [Meta-Teacher Template](skills/meta-teacher-template.md)
 - [Ontology of Learning](skills/ontology-of-learning.md)
