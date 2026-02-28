@@ -46,33 +46,33 @@ A group of sessions around one sub-topic. A chapter ends when the learner has un
   - Intensive (5–7 sessions/week): 1–1.5 weeks
 - **Example**: "By the end of this chapter, you can improvise over any 12-bar blues."
 
-### ◇ Journey
+### ◇ Course
 
-The full learning arc across multiple chapters. What others call a course — but this one is shaped by the learner, not a syllabus.
+The full learning arc across multiple chapters. A structured progression from beginner to competent in a defined domain.
 
 - **Contains**: 3–8 Chapters
 - **Duration by commitment**:
   - Casual: 3–12 months
   - Regular: 1.5–6 months
   - Intensive: 3 weeks–3 months
-- **Example**: "Your journey through music theory: from first chord to writing your own progressions."
+- **Example**: "Your course through music theory: from first chord to writing your own progressions."
 
-### △ Path
+### △ Journey
 
-Multiple journeys chained toward a bigger ambition. A life direction, not just a course — the kind of learning that changes what you're capable of.
+Multiple courses chained toward a bigger ambition. A life direction, not just a course — the kind of learning that changes what you're capable of.
 
-- **Contains**: 2–5 Journeys
+- **Contains**: 2–5 Courses
 - **Duration by commitment**:
   - Casual: 1–3 years
   - Regular: 6–18 months
   - Intensive: 3–10 months
-- **Example**: "The path to becoming a musician: theory, instrument, composition, performance."
+- **Example**: "The journey to becoming a musician: theory, instrument, composition, performance."
 
 ## Composition
 
 ```
-△ Path
- └─ 2–5 × ◇ Journey
+△ Journey
+ └─ 2–5 × ◇ Course
      └─ 3–8 × ◈ Chapter
          └─ 4–8 × ◉ Session
              └─ 3–6 × ✦ Spark
@@ -105,7 +105,7 @@ Learners respond in whatever way is natural to the moment:
 
 Learning paths are not isolated tracks. Knowledge converges. A chapter on harmonics belongs to both Music Theory and Sound Engineering. Crossings are moments where a learner's understanding deepens because they see the same idea from two disciplines.
 
-A teacher at a crossing draws from both paths, creating connections the learner couldn't make alone. The Meta-Teacher should recognize when a new teacher's domain overlaps with an existing path and create crossing points automatically.
+A teacher at a crossing draws from both journeys, creating connections the learner couldn't make alone. The Meta-Teacher should recognize when a new teacher's domain overlaps with an existing journey and create crossing points automatically.
 
 ## Commitment Levels
 
@@ -115,7 +115,7 @@ A teacher at a crossing draws from both paths, creating connections the learner 
 | Regular | 3–4 | A steady rhythm, treating learning as a recurring practice |
 | Intensive | 5–7 | Deep immersion, making learning the primary focus |
 
-Sparks and Sessions have fixed durations regardless of commitment — attention limits don't change with frequency. Chapters, Journeys, and Paths scale based on how often the learner shows up.
+Sparks and Sessions have fixed durations regardless of commitment — attention limits don't change with frequency. Chapters, Courses, and Journeys scale based on how often the learner shows up.
 
 ## Traditional Names Reference
 
@@ -142,14 +142,14 @@ How other traditions name these same levels:
 - 💻 Online Platforms: Section
 - 🌱 Montessori: Theme
 
-### ◇ Journey — a complete learning arc
+### ◇ Course — a complete learning arc
 - 🏫 K-12: Course
 - 🎓 University: Course
 - 🏢 Corporate L&D: Program
 - 💻 Online Platforms: Course
 - 🌱 Montessori: Study
 
-### △ Path — a life direction
+### △ Journey — a life direction
 - 🏫 K-12: Curriculum
 - 🎓 University: Degree / Major
 - 🏢 Corporate L&D: Learning path
