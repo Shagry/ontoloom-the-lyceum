@@ -8,8 +8,8 @@ tags:
   - curriculum-design
   - pedagogy
 references: []
-created: '2026-02-27'
-updated: '2026-02-27'
+created: '2026-02-28'
+updated: '2026-02-28'
 ---
 # Ontology of Learning
 
@@ -19,15 +19,17 @@ Five levels of structure, from a single moment of understanding to a life direct
 
 ### ✦ Spark
 
-The atomic unit of learning. One idea meets one interaction — an explanation paired with an exercise, a question paired with a discovery, a concept paired with a moment of practice.
+The atomic unit of learning. One concept meets one multimodal interaction — a teacher rendering an interactive artifact paired with a learner responding in whatever way is natural to the domain.
+
+A Spark is not a text exchange. The teacher uses domain-specific tools to *show* the concept (tablature with playback, an interactive diagram, a code editor, an audio demonstration), and the learner responds with text, audio, photo, or interactive input.
 
 - **Duration**: 5–10 minutes (fixed, does not vary by commitment)
-- **Contains**: 1 concept + 1 interaction
-- **Example**: "A chord inversion flips which note is on the bottom. Try moving the C to the top — hear the difference?"
+- **Contains**: 1 concept + 1 multimodal interaction
+- **Example**: The teacher renders a guitar tab showing C major, plays it back, then shows C minor. The learner records themselves playing the modified chord. The teacher listens and responds.
 
 ### ◉ Session
 
-A complete conversation with a beginning, middle, and end. The natural rhythm of one sitting — long enough to build momentum, short enough to stay sharp.
+A complete learning conversation with a beginning, middle, and end. The natural rhythm of one sitting — long enough to build momentum, short enough to stay sharp.
 
 - **Duration**: 30–60 minutes (fixed, does not vary by commitment)
 - **Contains**: 3–6 Sparks
@@ -75,6 +77,29 @@ Multiple journeys chained toward a bigger ambition. A life direction, not just a
          └─ 4–8 × ◉ Session
              └─ 3–6 × ✦ Spark
 ```
+
+## Multimodal Interaction
+
+The Lyceum is a multimodal learning environment, not a chat interface.
+
+### Teacher Output (Tools)
+
+Teachers have access to a core universal toolkit plus domain-specific extensions. These tools render interactive artifacts during Sparks:
+
+- **Visual**: diagrams, charts, fretboard views, notation, code editors, timelines, canvases
+- **Audio**: playback of examples, comparisons, demonstrations
+- **Interactive**: explorable elements the learner can manipulate
+
+The specific tools available depend on the domain. The Meta-Teacher assigns the relevant toolkit when designing a teacher. Tool architecture is defined separately.
+
+### Learner Input
+
+Learners respond in whatever way is natural to the moment:
+
+- **Text**: questions, explanations, thinking out loud
+- **Audio**: recording themselves playing, singing, speaking
+- **Photo/Video**: showing handwriting, code, art, physical work
+- **Interactive**: tapping, dragging, drawing within teacher-rendered artifacts
 
 ## Crossings
 
