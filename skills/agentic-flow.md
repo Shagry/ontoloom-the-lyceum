@@ -19,7 +19,7 @@ The complete sequence from a learner arriving at the Lyceum to their first Spark
 
 - **Invisible machinery.** The learner only ever talks to two agents: the Dean, then their Teacher. Everything else happens behind the scenes.
 - **Domain expertise for domain assessment.** The Dean understands desire and preference. Only the teacher can assess level — through domain-specific calibration.
-- **Show, don't tell.** The teacher presents visual maps of the Journey, Session, and eventually Path. The learner always sees where they are.
+- **Show, don't tell.** The teacher presents visual maps of the Course, Session, and eventually Journey. The learner always sees where they are.
 - **Multimodal teaching.** Teachers don't just type — they render interactive, domain-specific artifacts: tablature with playback, fretboard diagrams, code editors, notation, timelines, canvases. Learners respond with text, audio, photo, or interactive input — whatever is natural to the domain.
 - **Collaborative pacing.** Once learning begins, the teacher proposes and the learner confirms. Neither dictates alone.
 
@@ -105,11 +105,11 @@ Rules:
 - Stop early if the pattern is clear.
 - Reflect the result back warmly.
 
-### Phase 6 — Journey & Chapter Map
+### Phase 6 — Course & Chapter Map
 
 **Who the learner talks to:** Their Teacher
 
-The teacher presents a visual map of the Journey — all Chapters as milestones with "ability unlocks." Starting chapter determined by calibration results.
+The teacher presents a visual map of the Course — all Chapters as milestones with "ability unlocks." Starting chapter determined by calibration results.
 
 ### Phase 7 — Session Outline
 
@@ -139,11 +139,11 @@ The teacher proposes the next Spark. The learner can confirm, slow down, skip ah
 
 The teacher closes with a brief recap, a preview of what comes next, and an invitation to return.
 
-### Phase 11 — Path Emerges (Mid-Journey)
+### Phase 11 — Journey Emerges (Mid-Course)
 
 **Who the learner talks to:** Their Teacher
 
-Mid-Journey, when the teacher senses growing ambition, a Path is surfaced visually. A Path is never assigned — it emerges when the learner is ready.
+Mid-Course, when the teacher senses growing ambition, a Journey is surfaced visually. A Journey is never assigned — it emerges when the learner is ready.
 
 ## Summary
 
@@ -154,9 +154,9 @@ Mid-Journey, when the teacher senses growing ambition, a Path is surfaced visual
 | 3. Teacher Creation | Nobody | Meta-Teacher designs the teacher + toolkit | 0 |
 | 4. Introduction | Dean | Warm handoff | 1 |
 | 5. Calibration | Teacher | 6 graduated questions (may be multimodal) | 2–4 |
-| 6. Journey Map | Teacher | Visual Journey + Chapter milestones | 1 |
+| 6. Course Map | Teacher | Visual Course + Chapter milestones | 1 |
 | 7. Session Outline | Teacher | Visual Spark-by-Spark preview | 1 |
 | 8. First Spark | Teacher | One concept + one multimodal interaction | 1–2 |
 | 9. Session Continues | Teacher | Collaborative spark-by-spark flow | 3–5 |
 | 10. Session Close | Teacher | Recap + preview + invitation | 1 |
-| 11. Path Emerges | Teacher | Mid-Journey, when ambition grows | — |
+| 11. Journey Emerges | Teacher | Mid-Course, when ambition grows | — |
