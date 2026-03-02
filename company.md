@@ -6,8 +6,12 @@ description: A place to to learn & teach
 color: '#ef4444'
 icon: "\U0001F393"
 created: '2026-02-27'
-updated: '2026-02-28'
+updated: '2026-03-01'
 ---
+
+## Data Models
+
+- [Marcus Cole — Teacher Profile](data_models/marcus-cole-teacher-profile.md)
 
 ## Skills
 
